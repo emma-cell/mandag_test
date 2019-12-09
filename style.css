@@ -16,6 +16,7 @@
 
 /**********kontakt start************/
 
+
 h1_kontakt {
     color: darkolivegreen;
 }
@@ -34,6 +35,9 @@ h1_kontakt {
 
 /**********aabningstider start********/
 
+.red {
+    color: red;
+}
 
 
 
